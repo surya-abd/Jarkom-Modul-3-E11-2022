@@ -333,11 +333,11 @@ http_access deny all
 
 > Senin 10:00
 
-![image](https://user-images.githubusercontent.com/103357229/201689041-ef91e6fe-0bde-40d5-a441-0b0c7b663910.png)
+![image](https://user-images.githubusercontent.com/103357229/201690120-2616b07c-5be1-449f-8a05-447e4e47287e.png)
 
 > Senin 20:00
 
-![image](https://user-images.githubusercontent.com/103357229/201688761-477160c1-681f-4249-b709-1b84173ba844.png)
+![image](https://user-images.githubusercontent.com/103357229/201690421-645f71eb-51fb-4530-8b84-066baf029dfd.png)
 
 > Sabtu 10:00
 
@@ -347,11 +347,13 @@ http_access deny all
 
 > Senin 10:00
 
-![image](https://user-images.githubusercontent.com/103357229/201689188-cb2ac4cf-9c2a-4f2f-b599-eeb0d0c3e0e5.png)
+![image](https://user-images.githubusercontent.com/103357229/201690213-e48e2246-3593-4076-a27c-6749d719f398.png)
+
 
 > Senin 20:00
 
-![image](https://user-images.githubusercontent.com/103357229/201688689-972aefbc-cf82-42a4-8eae-339314b47fa6.png)
+
+![image](https://user-images.githubusercontent.com/103357229/201690472-81d3a6c4-faf0-4a73-8c70-ecbddb60628b.png)
 
 > Sabtu 10:00
 
@@ -363,16 +365,27 @@ http_access deny all
 
 > Senin 10:00
 
-
+![image](https://user-images.githubusercontent.com/103357229/201690910-aaf1084a-8e87-4f4c-9d1a-74a8b9dbfe0c.png)
 
 > Senin 20:00
 
+
+![image](https://user-images.githubusercontent.com/103357229/201691034-a5b97d10-3ec1-4fbe-aeed-5abda0d267a3.png)
+
 > Sabtu 10:00
+
+![image](https://user-images.githubusercontent.com/103357229/201691211-11dae887-8408-40df-8499-2a8558ed2a65.png)
 
 ### Nomor 4
 > Agar menghemat penggunaan, akses internet dibatasi dengan kecepatan maksimum 128 Kbps pada setiap host (Kbps = kilobit per second; lakukan pengecekan pada tiap host, ketika 2 host akses internet pada saat bersamaan, keduanya mendapatkan speed maksimal yaitu 128 Kbps)
 
+> gabung pada nomor 5
+
 ### Nomor 5
 > Setelah diterapkan, ternyata peraturan nomor (4) mengganggu produktifitas saat hari kerja, dengan demikian pembatasan kecepatan hanya diberlakukan untuk pengaksesan internet pada hari libur
+
+> HASIL TESTING
+
+
 
 
