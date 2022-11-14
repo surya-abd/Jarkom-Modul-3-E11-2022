@@ -134,7 +134,8 @@ subnet 10.27.3.0 netmask 255.255.255.0 {
 ![messageImage_1668433477019](https://user-images.githubusercontent.com/90848018/201687942-9db49abf-8be7-4e03-a6b7-cd7f899732c3.jpg)
 ![messageImage_1668433486115](https://user-images.githubusercontent.com/90848018/201687953-1bd27631-04fc-4841-b799-bf7c57953cfa.jpg)
 
-![messageImage_1668436421106](https://user-images.githubusercontent.com/90848018/201692653-ebb182a4-008b-41d4-87d0-5fa702019d07.jpg)
+
+![messageImage_1668424450474](https://user-images.githubusercontent.com/90848018/201686768-b010a5fe-74bd-40e6-9656-a3f1ad4f68b5.jpg)
 ![messageImage_1668436407436](https://user-images.githubusercontent.com/90848018/201687846-9901a898-5ec5-4ccf-8e13-5eb5608d6892.jpg)
 ![messageImage_1668436400840](https://user-images.githubusercontent.com/90848018/201687867-f5b9eae5-484d-4505-9f6e-36973514c33e.jpg)
 ![messageImage_1668436387581](https://user-images.githubusercontent.com/90848018/201687885-346aef75-9f4b-4200-b19f-1c6ab78752cd.jpg)
@@ -392,6 +393,19 @@ http_access deny all
 > Setelah diterapkan, ternyata peraturan nomor (4) mengganggu produktifitas saat hari kerja, dengan demikian pembatasan kecepatan hanya diberlakukan untuk pengaksesan internet pada hari libur
 
 > HASIL TESTING
+
+> Senin 10:00
+
+![image](https://user-images.githubusercontent.com/103357229/201692584-d88a86e1-3253-4bd6-94d6-e57566fe9385.png)
+
+> Senin 20:00
+
+![image](https://user-images.githubusercontent.com/103357229/201692852-323ce465-1045-47a7-b9e7-b700b8d8846b.png)
+
+> Sabtu 10:00
+
+![image](https://user-images.githubusercontent.com/103357229/201692321-287e27cc-b00a-4c2d-9ec7-c45fe054a5e9.png)
+
 
 
 
