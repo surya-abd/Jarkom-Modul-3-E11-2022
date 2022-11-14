@@ -130,7 +130,15 @@ subnet 10.27.3.0 netmask 255.255.255.0 {
 
 > Hasil
 
-![image](https://user-images.githubusercontent.com/103357229/201679929-9b48440b-d4bd-46f4-9725-4ef9c3f4fc21.png)
+![messageImage_1668424450474](https://user-images.githubusercontent.com/90848018/201685771-d596bb9d-81bc-42bb-b2cc-80f1eb03fb18.jpg)
+![messageImage_1668433477019](https://user-images.githubusercontent.com/90848018/201687942-9db49abf-8be7-4e03-a6b7-cd7f899732c3.jpg)
+![messageImage_1668433486115](https://user-images.githubusercontent.com/90848018/201687953-1bd27631-04fc-4841-b799-bf7c57953cfa.jpg)
+
+
+![messageImage_1668424450474](https://user-images.githubusercontent.com/90848018/201686768-b010a5fe-74bd-40e6-9656-a3f1ad4f68b5.jpg)
+![messageImage_1668436407436](https://user-images.githubusercontent.com/90848018/201687846-9901a898-5ec5-4ccf-8e13-5eb5608d6892.jpg)
+![messageImage_1668436400840](https://user-images.githubusercontent.com/90848018/201687867-f5b9eae5-484d-4505-9f6e-36973514c33e.jpg)
+![messageImage_1668436387581](https://user-images.githubusercontent.com/90848018/201687885-346aef75-9f4b-4200-b19f-1c6ab78752cd.jpg)
 
 ### Nomor 7
 > Loid dan Franky berencana menjadikan Eden sebagai server untuk pertukaran informasi dengan alamat IP yang tetap dengan IP [prefix IP].3.13 (7)
